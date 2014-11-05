@@ -1,0 +1,18 @@
+.resume-block{
+	padding-top:13px;
+}
+
+.resume-title{
+	padding-top:8px;
+	text-decoration: underline;
+	font-size:16px;
+}
+
+#resume-title2 {
+	text-decoration: underline;
+	font-size:16px;
+}
+
+a:hover{
+	background-color: yellow;
+}

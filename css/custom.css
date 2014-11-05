@@ -42,3 +42,22 @@ body{
 #imagesize2{
 	max-width:800px;
 }
+
+.email:hover {
+	color:blue;
+	background-color:transparent;
+}
+
+a {
+	color:#0006ff;
+}
+
+a:hover{
+	color:red;
+	background-color: yellow;
+	text-decoration:none;
+}
+
+.thumbnail{
+	border:none;
+}
