@@ -11,11 +11,12 @@ body{
 	font-size:15px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	border: 3px solid #0006ff;
-	width:113px;
-	height:34px;
-	padding: 5px;
-	margin-left:-2px;
+	border: 4px solid #0006ff;
+	width:121px;
+	height:41px;
+	padding: 7px;
+	margin-left:-5px;
+	color:blue;
 }
 
 .breadcrumb {
