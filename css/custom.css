@@ -5,6 +5,18 @@ body{
 	padding-right:5%;
 }
 
+
+.project-title{
+	padding-top:8px;
+	color:black;
+	font-family:'Raleway', sans-serif;
+	font-weight:700;
+	font-size:15px;
+	color:blue;
+
+}
+
+
 .brand{
 	font-family:'Raleway', sans-serif;
 	font-weight:700;
@@ -17,6 +29,27 @@ body{
 	padding: 7px;
 	margin-left:-5px;
 	color:blue;
+}
+
+.brand2{
+	margin-left:auto;
+	margin-right:auto;
+	font-family:'Raleway', sans-serif;
+	font-weight:700;
+	font-size:25px;
+	letter-spacing:1px;
+	text-transform: uppercase;
+	border: 4px solid #0006ff;
+	width:180px;
+	height:55px;
+	color:blue;
+	padding:7px;
+}
+
+.index-container{
+	margin-left:auto;
+	margin-right:auto;
+	width:150px;
 }
 
 .brand-korean{
@@ -32,7 +65,6 @@ body{
 	margin-left:-5px;
 	color:blue;
 }
-
 
 
 .breadcrumb {
