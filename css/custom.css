@@ -1,8 +1,33 @@
+.vertical-alignment {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+}
+
+/*.brand-row {
+	height: 50vh;
+	display: flex;
+	align-items: center;
+}
+.about-row {
+	height: 50vh;
+	display: flex;
+	align-items: center;
+
+}*/
+
+.brand-container {
+	width: 100%;
+}
+
+.stuff {
+	width: 100%;
+}
 
 body{
 	padding-top:5px;
 	padding-left:2%;
-	padding-right:5%;
+	padding-right:2%;
 }
 
 
@@ -44,12 +69,14 @@ body{
 	height:55px;
 	color:blue;
 	padding:7px;
+
 }
 
 .index-container{
 	margin-left:auto;
 	margin-right:auto;
-	width:150px;
+	/*width:150px;*/
+
 }
 
 .brand-korean{
