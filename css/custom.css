@@ -1,10 +1,11 @@
+
 .vertical-alignment {
 	height: 100vh;
 	display: flex;
 	align-items: center;
 }
 
-/*.brand-row {
+.brand-row {
 	height: 50vh;
 	display: flex;
 	align-items: center;
@@ -14,7 +15,7 @@
 	display: flex;
 	align-items: center;
 
-}*/
+}
 
 .brand-container {
 	width: 100%;
@@ -24,6 +25,7 @@
 .stuff {
 	width: 100%;
 }
+
 
 body{
 	padding-top:1%;
