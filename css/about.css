@@ -1,0 +1,15 @@
+
+.about{
+	margin-right: auto;
+	margin-left: auto;
+	max-width:500px;
+
+	font-family: 'raleway', sans-serif;
+	font-size:13px;
+	font-weight: 600;
+	line-height: 160%;
+}
+
+a.contact{
+	color:black;
+}
