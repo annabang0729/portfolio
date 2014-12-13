@@ -1,5 +1,24 @@
 
 .project-title{
+	font-family:'raleway', serif;
+	font-size:13px;
+	font-weight:700;
+	letter-spacing: 1px;
+
+	padding-bottom:10px;
+}
+
+.project-description{
+	font-family:serif;
+	font-size:13px;
+
+	max-width:500px;
+
+	padding-bottom:30px;
+}
+
+
+.project-title{
 	margin-bottom:-10px;
 	font-size:12px;
 }
@@ -11,7 +30,6 @@
 	letter-spacing: 1px;
 	padding-top: 23px;
 	padding-bottom: 10px;
-	text-align: center;
 
 }
 
@@ -26,7 +44,8 @@
 .resume{
 	margin-right: auto;
 	margin-left: auto;
-	max-width:550px;
+	
+	max-width:600px;
 }
 
 .resume-title{
