@@ -1,0 +1,21 @@
+.project-title{
+	font-family: 'raleway', sans-serif;
+	font-weight:700;
+	font-size:15px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.project-description{
+
+}
+
+.subtitle{
+	font-family: 'raleway', sans-serif;
+	font-weight:700;
+	font-size:13px;
+	letter-spacing: 1px;
+	text-align: center;
+	color:gray;
+}
