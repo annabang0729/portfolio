@@ -1,7 +1,7 @@
 
 .project-title{
 	font-family:'raleway', serif;
-	font-size:14px;
+	font-size:12px;
 	font-weight:700;
 	letter-spacing: 1px;
 	text-align: center;
@@ -12,12 +12,12 @@
 
 .project-description{
 	font-family:serif;
-	font-size:14px;
+	font-size:12px;
 	text-align:center;
 
 	margin-left:auto;
 	margin-right:auto;
-	max-width:400px;
+	max-width:310px;
 
 	padding-top:2px;
 	padding-bottom:30px;
